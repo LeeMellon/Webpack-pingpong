@@ -1,7 +1,7 @@
 import { pingPong } from './pingpong';
 import './styles.css';
 import $ from 'jquery';
-import 'boostrap';
+// import 'boostrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 $(document).ready(function() {
